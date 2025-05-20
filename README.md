@@ -1,2 +1,0 @@
-# Autoencoder
-For symposium presentation
