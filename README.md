@@ -11,4 +11,4 @@ Each branch experiments with different model architecture for best encoding edge
 
 ### Conclusion
 
-at
+The model that seemed to encode edge detection and recreate original data the best seemed to be a 2 hidden-layer autoencoder with layer sizes 192-100-75-192.
